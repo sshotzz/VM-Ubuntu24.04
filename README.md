@@ -18,7 +18,7 @@ sudo apt install build-essential dkms linux-headers-$(uname -r) <br>
 
 Descrição dos Pacotes <br>
 
-build-essential: Ferramentas para compilar código-fonte (gcc, g++, make, etc.). <br>
+build-essential: Ferramentas para compilar código-fonte <br>
 dkms: Sistema para recompilar automaticamente módulos de kernel, útil após atualizações. <br>
 linux-headers-$(uname -r): Cabeçalhos do kernel atual, necessários para compilar módulos compatíveis. <br>
 
