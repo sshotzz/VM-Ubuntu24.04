@@ -14,7 +14,7 @@ Após a atualização, reinicie a máquina para aplicar mudanças importantes: <
 
 Instale os pacotes essenciais para compilar os módulos dos Adicionais para Convidado: <br>
 
-**sudo apt install build-essential dkms linux-headers-$(uname -r) <br>
+**sudo apt install build-essential dkms linux-headers-$(uname -r)** <br>
 
 Descrição dos Pacotes <br>
 
